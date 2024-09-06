@@ -16,4 +16,6 @@
 - Once a somewhat reliable tilt and pitch heading can be produced, I went through my first major integration hell of combining the IMU, compass, and GPS to get a position/state estimate
 - Integrated state estimate with path planning and control. Started testing the car and iterating code
 
+## [Pictures](https://drive.google.com/drive/folders/1ahPBkde3sIUb90MGicm_s_7090Nhomsm?usp=sharing)
+
 ### PS: Due to the early start, lengthy timeline, and naiveness at the time, much of the code wasn't document and some was lost over the years 😢
